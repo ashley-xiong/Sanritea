@@ -1,0 +1,21 @@
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#E8D3C1;
+}
+
+li{
+    float:right;
+}
+
+li a{
+    display:block;
+    color:white;
+    font-weight:bold;
+    font-family:
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+}
